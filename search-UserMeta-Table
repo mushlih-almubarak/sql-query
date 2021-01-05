@@ -1,0 +1,1 @@
+SELECT * FROM `tabelprefixanda_usermeta` WHERE `meta_key` LIKE '%wp_%'
